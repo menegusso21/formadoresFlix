@@ -5,3 +5,15 @@
         font-family: sans-serif;
         font-family: "Edu NSW ACT Hand Pre", cursive;
     }
+
+    header{
+        font-size: 80px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+
+    p{
+        font-size: 20px;
+    }
