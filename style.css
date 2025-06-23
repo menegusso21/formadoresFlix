@@ -4,10 +4,15 @@
         color: goldenrod;
         font-family: sans-serif;
         font-family: "Edu NSW ACT Hand Pre", cursive;
+        margin: 0px;
+
     }
 
     header{
         font-size: 80px;
+        border-bottom: double 5px rgb(0,255,255);
+        padding: 30px;
+        text-align: center;
     }
 
     h1{
