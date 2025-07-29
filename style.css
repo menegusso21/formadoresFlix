@@ -33,3 +33,21 @@
     .chamada-texto {
         margin-right: 5%;
     }
+
+    img{
+
+        width: 200px;
+        height: 300p;
+    }
+        .outrasrecomendacoes{
+            display: flex;
+            overflow: auto;
+            gap: 10% ;
+            padding-left: 20px ;
+
+        }
+        h2 {
+       
+            padding-left: 30px;
+
+        }
